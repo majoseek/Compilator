@@ -1,2 +1,3 @@
 # Compilator
-Program was created to translate given language into specified machine code.
+## Description
+Single file app made for myself to translate assembly language

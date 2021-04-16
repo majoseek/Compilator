@@ -9,7 +9,6 @@
 #define OUTPUT 1
 #define PUSH 2
 
-//Ponizszy typ oraz struktura pochodza z pliku odwrotnie.c
 typedef enum {
     NONE = -1,
     PUSH_0 = 0,
